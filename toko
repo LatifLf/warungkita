@@ -1,0 +1,156 @@
+[  
+   {  
+      "id":"1",
+      "provinsi":"Jawa Tengah",
+      "kokab":"Magelang, Kab",
+      "toko":"Abdhi Tani",
+      "kecamatan":"Muntilan",
+      "hp":"+6281328074499",
+      "wa":"https://api.whatsapp.com/send?phone=6285894583258",
+      "location":"",
+      "pj":""
+   },
+   {  
+      "id":"2",
+      "provinsi":"Banten",
+      "kokab":"Lebak, Kab",
+      "toko":"PD Sukasari",
+      "kecamatan":"Panggarangan",
+      "hp":"+6285864444658",
+      "wa":"https://api.whatsapp.com/send?phone=6281573711157",
+      "location":"https://www.google.com/maps/dir//-6.9090039,106.1988556/@-6.9090039,106.1966669,17z/data=!4m8!1m7!3m6!1s0x0:0x0!2zNsKwNTQnMzIuNCJTIDEwNsKwMTEnNTUuOSJF!3b1!8m2!3d-6.9090039!4d106.1988556?hl=en",
+      "pj":""
+   },
+   {  
+      "id":"3",
+      "provinsi":"Jawa Barat",
+      "kokab":"Sukabumi, Kab",
+      "toko":"Hasrat Tani",
+      "kecamatan":"Warungkiara",
+      "hp":"+6285846806000",
+      "wa":"https://api.whatsapp.com/send?phone=6285723619993",
+      "location":"https://www.google.co.id/maps/dir//Hasrat+Tani,+Jl.+Nasional+III,+Warungkiara,+Wr.+Kiara,+Sukabumi,+Jawa+Barat+43362/@-6.977105,106.7202511,15z/data=!4m15!1m6!3m5!1s0x0:0x4effab1143dd9edc!2sHasrat+Tani!8m2!3d-6.977105!4d106.7202511!4m7!1m0!1m5!1m1!1s0x2e68254b83c17667:0x4effab1143dd9edc!2m2!1d106.7202511!2d-6.977105",
+      "pj":""
+   },
+   {  
+      "id":"4",
+      "provinsi":"Kalimantan Selatan",
+      "kokab":"Banjarbaru, Kota",
+      "toko":"Berkah Tani",
+      "kecamatan":"Landasan Ulin",
+      "hp":"+6285213671917",
+      "wa":"https://api.whatsapp.com/send?phone=6281253659922",
+      "location":"",
+      "pj":""
+   },
+   {  
+      "id":"5",
+      "provinsi":"Jawa Barat",
+      "kokab":"Sukabumi, Kab",
+      "toko":"Tani Cisalak",
+      "kecamatan":"Kalapa Nunggal",
+      "hp":"+6285863292320",
+      "wa":"https://api.whatsapp.com/send?phone=6285863292320",
+      "location":"",
+      "pj":""
+   },
+   {  
+      "id":"6",
+      "provinsi":"Jawa Barat",
+      "kokab":"Sukabumi, Kab",
+      "toko":"Tani Sejahtera",
+      "kecamatan":"Cicantayan",
+      "hp":"+6285864766869",
+      "wa":"https://api.whatsapp.com/send?phone=6285864766869",
+      "location":"",
+      "pj":""
+   },
+   {  
+      "id":"7",
+      "provinsi":"Jawa Barat",
+      "kokab":"Sukabumi, Kab",
+      "toko":"Tani Lodaya",
+      "kecamatan":"Cibadak",
+      "hp":"+6285659549000",
+      "wa":"https://api.whatsapp.com/send?phone=6285659549000",
+      "location":"",
+      "pj":""
+   },
+   {  
+      "id":"8",
+      "provinsi":"Jawa Barat",
+      "kokab":"Sukabumi, Kota",
+      "toko":"Bibit Bungbulang",
+      "kecamatan":"Cibeureum",
+      "hp":"+6285659549000",
+      "wa":"https://api.whatsapp.com/send?phone=6285659549000",
+      "location":"",
+      "pj":""
+   },
+   {  
+      "id":"9",
+      "provinsi":"Banten",
+      "kokab":"Lebak, Kab",
+      "toko":"Tani Mukti",
+      "kecamatan":"Cibeureum",
+      "hp":"+6281563201909",
+      "wa":"https://api.whatsapp.com/send?phone=6281262214705",
+      "location":"",
+      "pj":""
+   },
+   {  
+      "id":"10",
+      "provinsi":"Jawa Tengah",
+      "kokab":"Semarang, Kota",
+      "toko":"Sido Panen",
+      "kecamatan":"Bandungan",
+      "hp":"+622986072364",
+      "wa":"https://api.whatsapp.com/send?phone=6285643734201",
+      "location":"",
+      "pj":""
+   },
+   {  
+      "id":"11",
+      "provinsi":"Jawa Tengah",
+      "kokab":"Semarang, Kota",
+      "toko":"Sido Panen",
+      "kecamatan":"Sumowono",
+      "hp":"+685726514571",
+      "wa":"https://api.whatsapp.com/send?phone=685726514571",
+      "location":"",
+      "pj":""
+   },
+   {  
+      "id":"12",
+      "provinsi":"Jawa Tengah",
+      "kokab":"Semarang, Kota",
+      "toko":"Sido Makmur",
+      "kecamatan":"Sumowono",
+      "hp":"+621226945666",
+      "wa":"https://api.whatsapp.com/send?phone=6281226945666",
+      "location":"",
+      "pj":""
+   },
+   {  
+      "id":"13",
+      "provinsi":"Jawa Barat",
+      "kokab":"Sukabumi, Kab",
+      "toko":"Banua Mitra Tani",
+      "kecamatan":"Cisaat",
+      "hp":"+628156099974",
+      "wa":"https://api.whatsapp.com/send?phone=628156099974",
+      "location":"",
+      "pj":""
+   },
+   {  
+      "id":"14",
+      "provinsi":"Jawa Tengah",
+      "kokab":"Banjarnegara, Kab",
+      "toko":"Sido Tani",
+      "kecamatan":"Banjarmangu",
+      "hp":"+6285227938180",
+      "wa":"https://api.whatsapp.com/send?phone=6285227938180",
+      "location":"",
+      "pj":""
+   }
+]
